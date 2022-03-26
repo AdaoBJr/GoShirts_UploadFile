@@ -45,4 +45,4 @@ Por fim, rode o seguinte script para iniciar o projeto:
 > yarn dev
 ```
 
-O projeto vai iniciar em http://localhost:4001.
+O projeto vai iniciar em http://localhost:4002.
