@@ -21,7 +21,7 @@ const startServer = () => {
     });
   });
 
-  app.listen(PORT, () => {
+  app.listen(PORT || 8080, () => {
     console.log(`🔥 Server Running on http://localhost:${PORT}`);
   });
 };
